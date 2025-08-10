@@ -1,0 +1,18 @@
+# Streamlit & UI
+streamlit==1.37.0
+plotly==5.17.0
+
+# Essential ML (lightweight versions)
+transformers==4.42.4
+torch==2.3.1
+datasets==2.20.0
+evaluate==0.4.2
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Utilities
+tqdm==4.66.4
+
+# Remove ray[air] for deployment - too heavy and not needed for demo
