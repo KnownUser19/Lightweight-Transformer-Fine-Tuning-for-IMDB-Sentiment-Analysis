@@ -7,3 +7,4 @@ textColor = "#262730"
 [server]
 port = 8501
 maxUploadSize = 1028
+
